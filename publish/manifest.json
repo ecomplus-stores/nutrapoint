@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.60ade45be0b67773c1d6cd36ba3b58e9.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0519b55b61c092fcbb32c33304fcbf65.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.d09e205061a2a95362a70c9d22fca46e.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.3850ef2992045180ca15d63875dc80de.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9ea3eaa9df0b466b06c507f3cedcf871.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Nutra Point | Suplementos | Saúde | Bem-estar | Foz do Iguaçu - PR",
+  "short_name": "nutrapoint",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "nutrapoint",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
